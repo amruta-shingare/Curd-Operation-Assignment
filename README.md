@@ -17,8 +17,8 @@ Styling: Custom CSS (Web) / React Native Stylesheet
 UI Library: Only for modal functionality
 
 
-**Run Project**
-npm install
+**Run Project**<br>
+npm install<br>
 npm run dev
 
 
